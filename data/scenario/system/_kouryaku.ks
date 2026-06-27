@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/haikei5.png"  ]
+[preload  storage="./data/bgimage/rout2.png"  ]
+[preload  storage="./data/bgimage/rout3.png"  ]
+[preload  storage="./data/bgimage/rout1.png"  ]
+[preload  storage="./data/bgimage/rout4.png"  ]
+[preload  storage="./data/bgimage/rout5.png"  ]
+[preload  storage="./data/bgimage/rout6.png"  ]
+[return]
