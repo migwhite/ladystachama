@@ -1,7 +1,0 @@
-[preload  storage="./data/bgimage/megatron.png"  ]
-[preload  storage="./data/bgimage/optimus.png"  ]
-[preload  storage="./data/bgimage/soundwave.png"  ]
-[preload  storage="./data/bgimage/knockout.png"  ]
-[preload  storage="./data/bgimage/breakdown.png"  ]
-[preload  storage="./data/bgimage/beacon.png"  ]
-[return]
