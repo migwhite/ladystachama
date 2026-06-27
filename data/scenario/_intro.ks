@@ -1,4 +1,4 @@
-[_tb_system_call storage=system/_intro.ks]
+[_tb_system_call storage=system/intro.ks]
 
 [cm  ]
 [bg  time="1000"  method="crossfade"  storage="haikei5.png"  ]
