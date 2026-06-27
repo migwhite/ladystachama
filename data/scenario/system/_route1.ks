@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/haikei1.png"  ]
+[preload  storage="./data/fgimage/chara/1/st01.png"  ]
+[preload  storage="./data/fgimage/chara/1/st08.png"  ]
+[preload  storage="./data/fgimage/chara/1/st04.png"  ]
+[preload  storage="./data/fgimage/chara/1/st02.png"  ]
+[preload  storage="./data/fgimage/chara/1/st03.png"  ]
+[return]
