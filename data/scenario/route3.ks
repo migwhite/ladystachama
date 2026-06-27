@@ -2,8 +2,7 @@
 
 [cm  ]
 [bg  storage="haikei3.png"  time="1000"  ]
-[chara_hide  name="スタちゃま"  time="0"  wait="false"  pos_mode="false"  ]
-[chara_show  name="スタちゃま"  time="0"  wait="true"  storage="chara/1/st01.png"  width="635"  height="950"  left="1"  top="33"  reflect="false"  ]
+[chara_show  name="スタちゃま"  time="1000"  wait="true"  storage="chara/1/st01.png"  width="635"  height="950"  left="1"  top="33"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #スタースクリーム

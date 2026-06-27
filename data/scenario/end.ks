@@ -3,7 +3,7 @@
 [cm  ]
 *megatron
 
-[bg  storage="megatron.png"  time="6000"  method="fadeIn"  cross="true"  ]
+[bg  storage="megatron.png"  time="3000"  method="fadeIn"  cross="true"  ]
 [tb_cg  id="megatron"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
@@ -40,7 +40,7 @@
 [s  ]
 *optimus
 
-[bg  storage="optimus.png"  time="6000"  method="fadeIn"  cross="true"  ]
+[bg  storage="optimus.png"  time="3000"  method="fadeIn"  cross="true"  ]
 [tb_cg  id="optimus"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
@@ -111,7 +111,7 @@
 [s  ]
 *soundwave
 
-[bg  storage="soundwave.png"  time="6000"  method="fadeIn"  cross="true"  ]
+[bg  storage="soundwave.png"  time="3000"  method="fadeIn"  cross="true"  ]
 [tb_cg  id="soundwave"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
@@ -180,7 +180,7 @@
 [s  ]
 *knockout
 
-[bg  storage="knockout.png"  time="6000"  method="fadeIn"  cross="true"  ]
+[bg  storage="knockout.png"  time="3000"  method="fadeIn"  cross="true"  ]
 [tb_cg  id="knockout"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
@@ -289,7 +289,7 @@
 [s  ]
 *breakdown
 
-[bg  storage="breakdown.png"  time="6000"  method="fadeIn"  cross="true"  ]
+[bg  storage="breakdown.png"  time="3000"  method="fadeIn"  cross="true"  ]
 [tb_cg  id="breakdown"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
@@ -369,7 +369,7 @@
 [s  ]
 *beacon
 
-[bg  storage="beacon.png"  time="6000"  method="fadeIn"  cross="true"  ]
+[bg  storage="beacon.png"  time="3000"  method="fadeIn"  cross="true"  ]
 [tb_cg  id="beacon"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
